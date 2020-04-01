@@ -1,0 +1,14 @@
+header{
+height: 40px;
+color: white;
+font-size: 100px;
+height: 60px;
+background-color: brown;
+text-align: center;
+}
+footer{
+    height: 20px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}

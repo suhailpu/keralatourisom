@@ -1,0 +1,9 @@
+.box{
+    margin: 10px;
+}
+footer{
+    height: 20px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
